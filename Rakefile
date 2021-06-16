@@ -1,4 +1,4 @@
-require_relative '../bin/environment'
+require_relative './bin/environment'
 
 task :console do 
   pry.start
